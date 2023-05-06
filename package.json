@@ -17,6 +17,6 @@
     "vercel-serverless-api": "^1.1.0"
   },
   "engines": {
-    "node": "v16.16.0"
+    "node": "v18.15.0"
   }
 }
