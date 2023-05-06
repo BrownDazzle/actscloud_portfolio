@@ -4,7 +4,7 @@ export const projects = [
     description: "Bookhub is an online bookstore that offers a wide selection of books across different genres such as academics,fiction, non-fiction, self-help, and more. The platform allows users to easily browse and purchase books using a user-friendly interface. With its diverse collection and community-driven features, Bookhub is a great destination for book lovers looking to discover their next read.",
     image: '/images/5.png',
     tags: [],
-    visit: '',
+    visit: 'https://bookhub-client-8e4b.vercel.app',
     id: 0,
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     description: "Nike Store is an online shop that offers a wide range of Nike products, including athletic shoes, apparel, and accessories for men, women, and children. The platform features an easy-to-use interface that allows users to browse by product category, sport, or collection. ",
     image: '/images/2.png',
     tags: [],
-    visit: 'https://nike-clone-puce.vercel.app/',
+    visit: 'https://nike-clone-puce.vercel.app',
     id: 1,
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     description: "Tadmor is an online headphone store that offers a wide selection of high-quality headphones and audio accessories for music lovers and audiophiles. The platform features a user-friendly interface that allows users to easily browse and purchase products, with options for different types of headphones such as over-ear, in-ear, and on-ear. ",
     image: '/images/7.png',
     tags: [],
-    visit: 'https://tadmor-stripe.vercel.app/',
+    visit: 'https://tadmor-stripe.vercel.app',
     id: 2,
   },
 ];
